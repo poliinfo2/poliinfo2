@@ -1,4 +1,6 @@
-### Hi there 👋
+### NTCIR 15 QA Lab-PoliInfo-2 
+
+- The dataset will be released in March 2021.
 
 <!--
 **poliinfo2/poliinfo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
